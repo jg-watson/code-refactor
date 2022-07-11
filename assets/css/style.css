@@ -21,19 +21,19 @@ body {
     color: #d9dcd6;
 }
 
-/*Condense selectors*/
+/*Selectors condensed*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Element tags don't need . in front of selectors*/
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*selectors reorganized for better flow*/
 .alpha{
     padding-top: 15px;
     margin-right: 20px;
@@ -126,8 +126,8 @@ h1 {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.search-engine-optimization {
+/*hashtag symbol used to correspond to id element*/
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
