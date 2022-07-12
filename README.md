@@ -11,8 +11,9 @@ Code that did not function was debugged as best as possible.
 Multiple commits were pushed to a git hub repository with noted updates. 
 
 Included is a screenshot of the webpage: 
-    ![Horiseon Webpage]
-    (Challenge 1 Readme Img.jpg)
+    ![Horiseon Image](./assets/images/challenge1pic.png)
+
+### Contact Info
 
 For any questions please contact Jose Garcia at:
 j.antoniogarcia1130@gmail.com
